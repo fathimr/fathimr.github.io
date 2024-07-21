@@ -13,6 +13,13 @@ My research focuses on integrating Machine Learning and Operations Research to e
 I am passionate about continuous learning and enjoy sharing knowledge through teaching, striving to make complex concepts accessible to others. My goal is to leverage my expertise to develop innovative solutions that address real-world challenges in various industries.
 
 
+Education
+======
+* PhD in Operations Research, University of Toronto, 2027 (expected).
+* MSc in Industrial Engineering, Sharif University of Tech, 2022
+* BSc in Industrial Engineering, Amirkabir University of Tech, 2019
+
+
 
 Publications
 ======
