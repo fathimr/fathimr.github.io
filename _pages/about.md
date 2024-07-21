@@ -16,9 +16,9 @@ I am passionate about continuous learning and enjoy sharing knowledge through te
 
 Publications
 ======
-* Fathi, M., \& Lee, C. G. (2024). Inverse Approximate Dynamic Programming with Basis Function Learning. (Working Paper).
-* Fathi, M., \& Lee, C. G. (2024). Approximate Dynamic Programming with Basis Function Learning. (Under Review).
-* Ahmadi-Javid, A., \& Fathi, M (2022). Design of multi-service systems with facilities functioning as open Jackson queueing networks: application to online shopping stores. OR Spectrum.
+* Fathi, M., & Lee, C. G. (2024). Inverse Approximate Dynamic Programming with Basis Function Learning. (Working Paper).
+* Fathi, M., & Lee, C. G. (2024). Approximate Dynamic Programming with Basis Function Learning. (Under Review).
+* Ahmadi-Javid, A., & Fathi, M (2022). Design of multi-service systems with facilities functioning as open Jackson queueing networks: application to online shopping stores. OR Spectrum.
 
 
 
